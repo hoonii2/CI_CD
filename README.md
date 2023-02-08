@@ -3,8 +3,8 @@
 CI_CD Test with local server
 
 - Description( 한 줄 설명 )
-  - 서버 배포 및 운영 테스트
-  - 배포 방법 & 보안성 고려 & CI/CD & 대용량 트래픽 대응 아키텍처 & 향후 확장성
+    - 서버 배포 및 운영 테스트
+    - 배포 방법 & 보안성 고려 & CI/CD & 대용량 트래픽 대응 아키텍처 & 향후 확장성
 
 ## Prerequisite
 

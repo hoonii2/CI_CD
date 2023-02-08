@@ -13,7 +13,7 @@ resolve
 당신이 작업한 내용의 주요 변경사항을 자세히 나열하세요
 
 - Change 1
-  - Description
+    - Description
 - Change 2
 - Change 3
 
